@@ -19,6 +19,6 @@ The csv file contains time stamps of events expressed in seconds.
 
 #### 5. Find the distribution of Poisson intensity
 
-### 6. Explore possible types of dependence between one-minute counts and temperature.
+#### 6. Explore possible types of dependence between one-minute counts and temperature.
 
 #### 7. Fit a copula. What can you tell about the relationship between the temperature and the counts?
